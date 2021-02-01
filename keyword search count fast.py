@@ -12,8 +12,7 @@ import time
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
-### files
-#directory = "/Users/yuewu/Desktop/Corporate Debt & Covid"
+### files (CHANGE FILE PATHS HERE!!!)
 directory = "/Users/yuewu/Desktop/paper testing"
 scrapper_directory = "/Users/yuewu/Desktop/pdf scrapper/"
 keywords_path = scrapper_directory + "keywords.txt"
