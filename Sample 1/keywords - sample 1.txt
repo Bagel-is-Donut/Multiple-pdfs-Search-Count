@@ -1,7 +1,3 @@
-economics
 Crisis
 fintech	Fintech	FinTech
 global
-corporate
-Macroeconomics
-policy
