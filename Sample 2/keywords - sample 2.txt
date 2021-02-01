@@ -1,0 +1,5 @@
+crypto
+Bitcoin
+margin
+volatility
+BitMEX	bitmex
