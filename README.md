@@ -17,8 +17,9 @@ In order to save runtime, I made the following conventions for the keywords you 
 \
 See "keywords - sample.txt"
 
-# Change to your local path
-To run the code on your PC, you need to change the path in the directory to your local path.
+# Input local path for the directory of pdfs you want to search
+To run the code on your PC, you need to change the path in the directory to your local path.\
+The code will only run through the pdfs in the immediate directory; it skips any other files.
 
 # Output file "keywords search & count.txt"
 presents in each row the word, file, and frequency\
