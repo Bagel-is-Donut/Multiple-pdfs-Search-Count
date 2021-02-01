@@ -1,0 +1,33 @@
+word	file	frequency
+Crisis	Sizing up Corporate Restructuring in the COVID Crisis.pdf	2
+Crisis	Consumers’ Declining Power In The Fintech Auto Loan Market.pdf	3
+Crisis	Mitigating the COVID Economic Crisis- Act Fast and Do Whatever It Takes.pdf	22
+Crisis	Corporate Debt Overhang and Credit Policy.pdf	3
+Crisis	How FinTech Can Help Latin America to Deal with Economic Challenges and the COVID-19 Crisis.pdf	1
+Crisis	Covid-19 and corporate sector liquidity.pdf	1
+Crisis	Spillover of COVID-19 - Impact on the Global Economy.pdf	1
+Crisis	The Coronavirus Economic Crisis- Its Impact on Venture Capital and High Growth Enterprises.pdf	12
+Crisis	Growth of Global Corporate Debt Main Facts and Policy Challenges.pdf	8
+Crisis	The Future after COVID-19 - Healthcare, Digitalization and Inequality.pdf	1
+Crisis	The Costs of Corporate Debt Overhang.pdf	1
+Crisis	The COVID‐19 Pandemic and Its Impact on the Global Economy - What Does It Take to Turn Crisis into Opportunity?.pdf	3
+Crisis	Leverage Shocks - Firm-Level Evidence on Debt Overhang and Investment - IMF.pdf	1
+fintech	Sizing up Corporate Restructuring in the COVID Crisis.pdf	2
+fintech	Consumers’ Declining Power In The Fintech Auto Loan Market.pdf	42
+fintech	Mitigating the COVID Economic Crisis- Act Fast and Do Whatever It Takes.pdf	5
+fintech	How FinTech Can Help Latin America to Deal with Economic Challenges and the COVID-19 Crisis.pdf	80
+fintech	The Future after COVID-19 - Healthcare, Digitalization and Inequality.pdf	1
+global	Rising Corporate Debts Peril or Promise? - McKinsey.pdf	91
+global	Consumers’ Declining Power In The Fintech Auto Loan Market.pdf	1
+global	Mitigating the COVID Economic Crisis- Act Fast and Do Whatever It Takes.pdf	91
+global	Corporate Debt Overhang and Credit Policy.pdf	2
+global	How FinTech Can Help Latin America to Deal with Economic Challenges and the COVID-19 Crisis.pdf	3
+global	Covid-19 and corporate sector liquidity.pdf	2
+global	Spillover of COVID-19 - Impact on the Global Economy.pdf	38
+global	The Coronavirus Economic Crisis- Its Impact on Venture Capital and High Growth Enterprises.pdf	8
+global	Do Cryptocurrencies Increase the Systemic Risk of the Global Financial Market.pdf	7
+global	Growth of Global Corporate Debt Main Facts and Policy Challenges.pdf	39
+global	The Future after COVID-19 - Healthcare, Digitalization and Inequality.pdf	12
+global	Latin America - A Conceptual Framework for Analyzing the Economic Impact of COVID-19 and its Policy Implications.pdf	20
+global	The COVID‐19 Pandemic and Its Impact on the Global Economy - What Does It Take to Turn Crisis into Opportunity?.pdf	45
+global	Leverage Shocks - Firm-Level Evidence on Debt Overhang and Investment - IMF.pdf	15
