@@ -1,6 +1,0 @@
-word	file	frequency
-crypto	A Quantitative Analysis on BitMEX Perpetual Inverse Futures XBTUSD Contract.pdf	6
-Bitcoin	A Quantitative Analysis on BitMEX Perpetual Inverse Futures XBTUSD Contract.pdf	24
-margin	A Quantitative Analysis on BitMEX Perpetual Inverse Futures XBTUSD Contract.pdf	40
-volatility	A Quantitative Analysis on BitMEX Perpetual Inverse Futures XBTUSD Contract.pdf	18
-BitMEX	A Quantitative Analysis on BitMEX Perpetual Inverse Futures XBTUSD Contract.pdf	25
